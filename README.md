@@ -17,3 +17,12 @@
 
 #### Robust04
 ##### https://drive.google.com/file/d/1YxqwHkHQvNWJOoNCva8j_kHFpKxrZXri/view?usp=sharing
+
+
+### How to Run?
+
+1. Download Models and Dataset and unzip
+2. run graph-generator.py to make graph
+3. run TIM_PLUS (check README.txt)
+4. run main.py at /Robust-Ranker-Master (Check README.md if you need)
+5. run make-set.py at /src (data,pkl and seed.txt needed)
