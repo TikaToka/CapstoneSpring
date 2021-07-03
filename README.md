@@ -25,6 +25,6 @@
 2. run graph/graph-generator.py to make graph asd (Change data location at line 105 to '/filename.pkl'. Check Readme.docx) 
 3. run TIM_PLUS using step 2's result (check README.txt)
 4. Use step 3's result to make seed.txt (Just copy the result and write into it)
-5. run create-set.py at /graph (data, pkl and seed.txt needed)
-6. run main.py at /Robust-Ranker-Master (Check README.md if you need)
+5. run /graph/create-set.py (data, pkl and seed.txt needed)
+6. run /Robust-Ranker-Master/main.py (Check README.md if you need)
 7. Compare MAP! ^-^
