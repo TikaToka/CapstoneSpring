@@ -1,4 +1,4 @@
-# CapstoneSpring
+# Capstone Design(CSI4101) 2020 Spring Semester
 ## Project Name: "Effective Ways to Select Dataset from Large Corpus"
 ### Team: 'input.txt' (input.txt.2020@gmail.com)
 1. Joochan Kim(Leader, Code, Idea)
@@ -9,7 +9,6 @@
 
 ### Arrangement in Progress!!
 
-#### This project is organized for 'CSI4101: Capstone Design(1)' class. 
 #### Idea originated from Prof. Jinyeong Yeo @ [Convei lab](http://convei.weebly.com/) in Yonsei Univ.
 #### Assist was given by Gayeon Lee @ Convei Lab in Yonsei Univ.
 
