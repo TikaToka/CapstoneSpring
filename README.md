@@ -12,7 +12,7 @@
 #### Idea originated from Prof. Jinyeong Yeo @ [Convei lab](http://convei.weebly.com/) in Yonsei Univ.
 #### Assistance was given by Gayeon Lee @ [Convei lab](http://convei.weebly.com/) in Yonsei Univ.
 
-#### Most of the NLP datasets are so big that lead developers to spend a lot of time and costs to train model. To reduce this burden, We propose a new approach that reduces size of data and improves performances.
+#### Most of the NLP datasets are so big that lead developers spend a lot of time and costs to train model. To reduce this burden, We propose a new approach that reduces size of data to lessen time and costs needed and improves performances.
 
 ### Model
 
