@@ -1,8 +1,13 @@
 # CapstoneSpring
 ## Project Name: "Effective Ways to Select Dataset from Large Corpus"
+#### [Video](https://drive.google.com/file/d/1izaw2MqWYFViPmLNyYPHrrCP-gJq0IKt/view?usp=sharing) [PPT](https://github.com/TikaToka/CapstoneSpring/blob/main/presentation/Effective%20Ways%20to%20Select%20Dataset%20from%20Large%20Corpus.pptx)
 
 ### Arrangement in Progress!!
 
+#### This project is organized for 'CSI4101: Capstone Design(1)' class. 
+#### Idea originated from Prof. Jinyeong Yeo @ Convei lab in Yonsei Univ. and Assist was given by Gayeon Lee @ Convei Lab in Yonsei Univ.
+
+#### Most of the NLP datasets are so big that lead developers to spend a lot of time and costs to train model. To reduce this burden, We propose a new approach that reduces size of data and improves performances.
 
 ### Model
 
