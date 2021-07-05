@@ -16,7 +16,7 @@
 
 ### Model
 
-#### - [Robusk Ranker](https://arxiv.org/abs/1904.07094)
+#### - [CEDR](https://arxiv.org/abs/1904.07094)
 ##### [Download](https://drive.google.com/file/d/1Z3xbRuVaiAOb5ymUh8eanDxoG1FCrMao/view?usp=sharing)
 
 #### - [TIM_PLUS](https://arxiv.org/abs/1404.0900)
