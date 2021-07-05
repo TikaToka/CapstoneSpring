@@ -1,4 +1,4 @@
-# Capstone Design(CSI4101) 2020 Spring Semester
+# CapstoneDesign(CSI4101) 2020 Spring Semester
 ## "Effective Ways to Select Dataset from Large Corpus"
 ### Team: 'input.txt' [E-mail](input.txt.2020@gmail.com)
 1. Joochan Kim(Leader, Code, Idea)
