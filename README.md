@@ -10,7 +10,7 @@
 ### Arrangement in Progress!!
 
 #### Idea originated from Prof. Jinyeong Yeo @ [Convei lab](http://convei.weebly.com/) in Yonsei Univ.
-#### Assist was given by Gayeon Lee @ Convei Lab in Yonsei Univ.
+#### Assistance was given by Gayeon Lee @ Convei Lab in Yonsei Univ.
 
 #### Most of the NLP datasets are so big that lead developers to spend a lot of time and costs to train model. To reduce this burden, We propose a new approach that reduces size of data and improves performances.
 
