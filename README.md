@@ -1,6 +1,6 @@
 # CapstoneDesign(CSI4101) 2020 Spring Semester
 ## "Effective Ways to Select Dataset from Large Corpus"
-### Team: 'input.txt' (E-mail: input.txt.2020@gmail.com)
+### Team: '**input.txt**' (E-mail: input.txt.2020@gmail.com)
   1. Joochan Kim(Leader, Code, Idea)
   2. Dobreva Iva(Code)
   3. Yujin Kim(Documentation, presentation)
@@ -14,16 +14,16 @@
 
 ### Model
 
-#### - [CEDR](https://arxiv.org/abs/1904.07094)
+#### - [CEDR](https://arxiv.org/abs/1904.07094): Contextualized Embeddings for Document Ranking
 ##### [Download](https://drive.google.com/file/d/1Z3xbRuVaiAOb5ymUh8eanDxoG1FCrMao/view?usp=sharing)
 
-#### - [TIM_PLUS](https://arxiv.org/abs/1404.0900)
+#### - [TIM_PLUS](https://arxiv.org/abs/1404.0900): Algorithm that aims to bridge the theory and practice in influence maximization
 ##### [Download](https://drive.google.com/file/d/1uZPgHeL5Ao1HKL4J0j144oWimizhIPW9/view?usp=sharing)
 
 
 ### Dataset
 
-#### - [Robust04](https://trec.nist.gov/data/robust/04.guidelines.html)
+#### - [Robust04](https://trec.nist.gov/data/robust/04.guidelines.html): Dataset for Document Ranking
 ##### [Download](https://drive.google.com/file/d/1YxqwHkHQvNWJOoNCva8j_kHFpKxrZXri/view?usp=sharing)
 
 
