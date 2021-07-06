@@ -6,7 +6,7 @@
   2. Dobreva Iva(Code)
   3. Yujin Kim(Documentation, presentation)
 
-#### [Video](https://drive.google.com/file/d/1izaw2MqWYFViPmLNyYPHrrCP-gJq0IKt/view?usp=sharing) [PPT](https://github.com/TikaToka/CapstoneSpring/blob/main/presentation/Effective%20Ways%20to%20Select%20Dataset%20from%20Large%20Corpus.pptx)
+#### [Video & PPT](https://github.com/TikaToka/CapstoneSpring/tree/main/presentation)
 
 ***
 
@@ -28,7 +28,7 @@
 
 ### Dataset
 
-#### - [Robust04](https://trec.nist.gov/data/robust/04.guidelines.html): Dataset for Document Ranking
+#### - [Robust04](https://ir-datasets.com/trec-robust04.html): TREC Robust document collection for Retrieval task
 ##### [Download](https://drive.google.com/file/d/1YxqwHkHQvNWJOoNCva8j_kHFpKxrZXri/view?usp=sharing)
 
 ***
