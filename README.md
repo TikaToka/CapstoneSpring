@@ -44,4 +44,6 @@
 7. Compare MAP! ^-^
 ***
 ### Result
+#### Number of dataset: 110000 -> 50000
+#### Train time spend: 11h -> 6h
 ![Result](https://github.com/TikaToka/CapstoneSpring/blob/main/presentation/result/result.png)
