@@ -42,3 +42,6 @@
 5. run `/graph/create-set.py` (data, pkl and seed.txt needed)
 6. run `/Robust-Ranker-Master/main.py` (Check README.md if you need)
 7. Compare MAP! ^-^
+***
+### Result
+![Result](https://github.com/TikaToka/CapstoneSpring/blob/main/presentation/result/result.png)
