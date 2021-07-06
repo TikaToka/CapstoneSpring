@@ -1,13 +1,11 @@
 # CapstoneDesign(CSI4101) 2020 Spring Semester
 ## "Effective Ways to Select Dataset from Large Corpus"
-* Team: 'input.txt' (E-mail: input.txt.2020@gmail.com)
+### Team: 'input.txt' (E-mail: input.txt.2020@gmail.com)
   1. Joochan Kim(Leader, Code, Idea)
   2. Dobreva Iva(Code)
   3. Yujin Kim(Documentation, presentation)
 
 #### [Video](https://drive.google.com/file/d/1izaw2MqWYFViPmLNyYPHrrCP-gJq0IKt/view?usp=sharing) [PPT](https://github.com/TikaToka/CapstoneSpring/blob/main/presentation/Effective%20Ways%20to%20Select%20Dataset%20from%20Large%20Corpus.pptx)
-
-### Arrangement in Progress!!
 
 #### Idea originated from Prof. Jinyeong Yeo @ [Convei lab](http://convei.weebly.com/) in Yonsei Univ.
 #### Assistance was given by Gayeon Lee @ [Convei lab](http://convei.weebly.com/) in Yonsei Univ.
