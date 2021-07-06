@@ -7,17 +7,21 @@
 
 #### [Video](https://drive.google.com/file/d/1izaw2MqWYFViPmLNyYPHrrCP-gJq0IKt/view?usp=sharing) [PPT](https://github.com/TikaToka/CapstoneSpring/blob/main/presentation/Effective%20Ways%20to%20Select%20Dataset%20from%20Large%20Corpus.pptx)
 
+***
+
 #### Idea originated from Prof. Jinyeong Yeo @ [Convei lab](http://convei.weebly.com/) in Yonsei Univ.
 #### Assistance was given by Gayeon Lee @ [Convei lab](http://convei.weebly.com/) in Yonsei Univ.
 
 #### Most of the NLP datasets are so big that lead developers spend a lot of time and costs to train model. To reduce this burden, We propose a new approach that reduces size of data to lessen time and costs needed and improves performances.
+
+***
 
 ### Model
 
 #### - [CEDR](https://arxiv.org/abs/1904.07094): Contextualized Embeddings for Document Ranking
 ##### [Download](https://drive.google.com/file/d/1Z3xbRuVaiAOb5ymUh8eanDxoG1FCrMao/view?usp=sharing)
 
-#### - [TIM_PLUS](https://arxiv.org/abs/1404.0900): Algorithm that aims to bridge the theory and practice in influence maximization
+#### - [TIM_PLUS](https://arxiv.org/abs/1404.0900): Two-phase Influence Maximization
 ##### [Download](https://drive.google.com/file/d/1uZPgHeL5Ao1HKL4J0j144oWimizhIPW9/view?usp=sharing)
 
 
@@ -26,6 +30,7 @@
 #### - [Robust04](https://trec.nist.gov/data/robust/04.guidelines.html): Dataset for Document Ranking
 ##### [Download](https://drive.google.com/file/d/1YxqwHkHQvNWJOoNCva8j_kHFpKxrZXri/view?usp=sharing)
 
+***
 
 ### How to Run?
 
