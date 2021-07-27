@@ -36,12 +36,14 @@
 ### How to Run?
 
 1. Download Models and Dataset and unzip
-2. run `graph/graph-generator.py` to make graph (Change data location at line 105 to `/filename.pkl`. Check Readme.docx) 
-3. run TIM_PLUS using step 2's result (check README.txt)
+2. run `graph/graph-generator.py` to make graph (Change data location at line 105 to `/filename.pkl`. Check [README.md](https://github.com/TikaToka/CapstoneSpring/blob/main/src/graph/README.md)) 
+3. run TIM_PLUS using step 2's result (check README)
 4. Use step 3's result to make seed.txt (Just copy the result and write into it)
-5. run `/graph/create-set.py` (data, pkl and seed.txt needed)
-6. run `/Robust-Ranker-Master/main.py` (Check README.md if you need)
+5. run `/graph/create-set.py` (data, pkl and seed.txt needed, check [README.md](https://github.com/TikaToka/CapstoneSpring/blob/main/src/graph/README.md))
+6. run `/Robust-Ranker-Master/main.py` (Check README)
 7. Compare MAP! ^-^
 ***
 ### Result
+#### Number of dataset: 110000 -> 50000
+#### Train time spend: 11h -> 6h
 ![Result](https://github.com/TikaToka/CapstoneSpring/blob/main/presentation/result/result.png)
